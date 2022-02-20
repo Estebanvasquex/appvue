@@ -1,16 +1,24 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
-  <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <!-- 3)Llamar el componente, lo puedes llamar las veces que se necesite -->
+  <Counter/>
+  <Counter/>
+  <Counter/>
 </template>
 
 <script>
-import HelloWorld from './components/HelloWorld.vue'
+// 1) importar componente
+import Counter from './components/Counter.vue'
+
+
 
 export default {
+
   name: 'App',
-  components: {
-    HelloWorld
-  }
+    // 2)Agregar el componente
+  components: { Counter }
+
+
 }
 </script>
 
