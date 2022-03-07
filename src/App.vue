@@ -4,6 +4,9 @@
   <Counter/>
   <Counter/>
   <Counter/>
+  <Counter/>
+  <Counter/>
+  <Counter/>
 </template>
 
 <script>
