@@ -1,17 +1,15 @@
 <template>
+  <h1>Prueba Esteban</h1>
   <img alt="Vue logo" src="./assets/logo.png">
   <!-- 3)Llamar el componente, lo puedes llamar las veces que se necesite -->
   <Counter/>
-  <Counter/>
-  <Counter/>
-  <Counter/>
-  <Counter/>
-  <Counter/>
+
+
 </template>
 
 <script>
 // 1) importar componente
-import Counter from './components/Counter.vue'
+import Counter from '@/components/counter.vue'
 
 
 
