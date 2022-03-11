@@ -1,15 +1,19 @@
 <template>
-  <h1>Prueba Esteban</h1>
-  <img alt="Vue logo" src="./assets/logo.png">
+  <!-- <h1>Prueba Esteban</h1>
+  <img alt="Vue logo" src="./assets/logo.png"> -->
   <!-- 3)Llamar el componente, lo puedes llamar las veces que se necesite -->
-  <Counter tituloCompo= "Entraron" :start= "101"/>
-  <Counter/>
+  <indecision />
+  <!-- <Counter tituloCompo= "Entraron" :start= "101"/>
+  <Counter/> --> -->
+ 
 
+ 
 </template>
 
 <script>
 // 1) importar componente
-import Counter from '@/components/counter.vue'
+import indecision  from '@/components/indecision.vue'
+// import Counter from '@/components/counter.vue'
 
 
 
@@ -17,7 +21,9 @@ export default {
 
   name: 'App',
     // 2)Agregar el componente
-  components: { Counter }
+  components: { 
+                // Counter, 
+                indecision }
 
 
 }
