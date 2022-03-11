@@ -2,8 +2,8 @@
   <h1>Prueba Esteban</h1>
   <img alt="Vue logo" src="./assets/logo.png">
   <!-- 3)Llamar el componente, lo puedes llamar las veces que se necesite -->
+  <Counter tituloCompo= "Entraron" :start= "101"/>
   <Counter/>
-
 
 </template>
 

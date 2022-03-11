@@ -1,0 +1,29 @@
+[33mcommit eb786c93d64e0310d8b570776da7eb2a5eb45dc2[m[33m ([m[1;36mHEAD -> [m[1;32mMain[m[33m, [m[1;31morigin/Main[m[33m)[m
+Author: estebanvasquex <estebanvasquex@gmail.com>
+Date:   Wed Mar 9 14:59:45 2022 -0500
+
+    Se crean botones de incremento y decremento de para el compente counter
+
+[33mcommit 3e5cadd87e42f64868dc2e51598f39a8c333206c[m
+Author: estebanvasquex <estebanvasquex@gmail.com>
+Date:   Wed Mar 9 14:03:33 2022 -0500
+
+     Uso de la propiedad comuted para evitar realizar varios procesos, esta propiedad se guarda en cache
+
+[33mcommit 8b7d59254be4bd7298a15ffb092d20f7206d7b91[m
+Author: estebanvasquex <estebanvasquex@gmail.com>
+Date:   Mon Mar 7 10:14:11 2022 -0500
+
+    Componente contador
+
+[33mcommit da9e7d9761d9e3e05d4668912c2eb003eae2cc00[m
+Author: estebanvasquex <estebanvasquex@gmail.com>
+Date:   Sun Feb 20 09:43:28 2022 -0500
+
+    clear hello - create counter
+
+[33mcommit 28590bbec2b63ef8f20d8834f582d5a992fb248e[m
+Author: estebanvasquex <estebanvasquex@gmail.com>
+Date:   Thu Feb 17 08:23:54 2022 -0500
+
+    init
